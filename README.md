@@ -1,0 +1,4 @@
+- バージョン情報  
+  - `julia version 1.6.2`
+- juliaをJupter Notebookで動かす方法  
+  - https://qiita.com/hujuu/items/12a5d16354fcc629200e  
